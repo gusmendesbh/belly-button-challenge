@@ -2,6 +2,9 @@
 
 JS Interactive Dashboard Challenge
 
+## Github Pages Link:
+https://gusmendesbh.github.io/belly-button-challenge/
+
 ## Background
 
 In this assignment, I built an interactive dashboard to explore the Belly Button Biodiversity, which catalogs the microbes that colonize human navels.
